@@ -1,2 +1,2 @@
 # clinical-search-service.khealth.com
-##subdomain takeover by Tarun
+## subdomain takeover by Tarun
